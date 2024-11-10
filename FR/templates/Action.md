@@ -18,7 +18,7 @@ _Par ex. enseignant·es, parents, autres élèves ou étudiant·es, psychologues
 Acteurs impliqués ici...
 
 ## Description générique de l'Action
-_Tâchez de répondre aux questions suivantes: Quelles sont les étapes successives à suivre pour mettre en place cette Action ? Quelles sont les ressources (humaines, matérielles, en ligne, …) nécessaires ? Quelle est la temporalité de sa mise en place (ponctuelle, fréquente à intervalles réguliers, avec un début et une fin, …) ? _\
+_Tâchez de répondre aux questions suivantes: Quelles sont les étapes successives à suivre pour mettre en place cette Action ? Quelles sont les ressources (humaines, matérielles, en ligne, …) nécessaires ? Quelle est la temporalité de sa mise en place (ponctuelle, fréquente à intervalles réguliers, avec un début et une fin, …) ?_\
 _Si besoin, commencez par décrire des “Exemples illustratifs de mise en place” plus bas dans le document. Si vous employez des termes spécifiques, nous vous invitons à les définir et si possible à partager la source de votre définition._
 
 Description ici....
