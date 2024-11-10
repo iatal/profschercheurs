@@ -35,7 +35,7 @@ Détails de mise en place ici...
 _Est-ce que la situation problématique s'est améliorée ? Est-ce que j'ai atteint les objectifs du Défi ? Est-ce que la mise en place de l’Action s’est bien passée ?_\
 _**Remarque 1** : aidez-vous des "indicateurs de progrès" définis dans la description du Défi pour partager vos progrès. Si vous aviez produit des "notes de terrain" pour les recueillir, insérez vos données recueillies (par ex. tableau rempli) dans le corps de ce texte ou en pièce jointe._\
 _**Remarque 2** : n'hésitez pas à ajouter tout contenu (photo de travail d'élève, capture d'écran, citation, ...) qui pourrait aider à illustrer vos propos._\
-_**Remarque 3** : assurez-vous que tout le contenu partagé soit anonymisé et que vous ne partagez pas d’informations sensibles ou personnelles._\
+_**Remarque 3** : assurez-vous que tout le contenu partagé soit **anonymisé** et que vous ne partagez pas d’informations sensibles ou personnelles._\
 
 Progrès observés ici...
 
