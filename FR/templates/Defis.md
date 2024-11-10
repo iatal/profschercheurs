@@ -33,7 +33,7 @@ _Proposez des indicateurs autant que possible **transposables d’un contexte à
 
 ## Exemples concrets du Défi 
 _[Optionnel] Si vous êtes concerné·e par ce Défi, vous pouvez partager comment ce Défi se traduit dans votre contexte personnel à travers un exemple concret. Pour ce faire, répondez à la première personne aux questions suivantes : "Quelle est la situation problématique à laquelle je suis confronté·e ? Quelle serait la situation finale souhaitée ?"._\
-_Remarque : Assurez-vous que tout le contenu soit anonymisé et que vous ne partagez pas d’informations sensibles ou personnelles._
+_**Remarque** : Assurez-vous que tout le contenu soit **anonymisé** et que vous ne partagez pas d’informations sensibles ou personnelles._
 
 **Exemple # 1** : Dans ma classe / dans mon école / dans mon établissement ...
 
