@@ -5,7 +5,7 @@ _Quels niveaux, dispositifs ou contextes éducatifs spécifiques sont concernés
 
 Champ d’application ici...
 
-## Acteur·rices de l’éducation impliqué·es pour relever ce Défi__
+## Acteur·rices de l’éducation impliqué·es pour relever ce Défi
 _Qui pourrait participer à la préparation et/ou la mise en place d’actions visant à relever ce Défi ? Par ex. enseignant·es, parents, élèves ou étudiant·es, psychologues, directeur·rices, proviseur·es, inspecteur·rices, …_
 
 Acteur·rices impliqué·es ici....
