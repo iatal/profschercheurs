@@ -44,11 +44,11 @@ _A votre avis, cette Action a-t-elle contribué à relever le Défi ? Choisissez
 
 | | Votre Réponse |
 | ---- | ---- |
-| **Au contraire**\ _La situation s'est empirée._ | |
-| **Non**\ _Il n'y a eu aucune amélioration, la situation est toujours préoccupante pour moi._ | | 
-| **Un peu**\ _Il y a eu quelques améliorations, mais la situation est toujours préoccupante pour moi._ | |
-| **Suffisamment**\ _Il y a eu plusieurs améliorations, la situation ne me préoccupe quasiment plus, mais mais elle pourrait encore s'améliorer._ | |
-| **Totalement**\ _Il y a des améliorations majeures, et cette situation n'est plus du tout une préoccupation pour moi._ | |
+| **Au contraire**<br> _La situation s'est empirée._ | |
+| **Non**<br> _Il n'y a eu aucune amélioration, la situation est toujours préoccupante pour moi._ | | 
+| **Un peu**<br> _Il y a eu quelques améliorations, mais la situation est toujours préoccupante pour moi._ | |
+| **Suffisamment**<br> _Il y a eu plusieurs améliorations, la situation ne me préoccupe quasiment plus, mais mais elle pourrait encore s'améliorer._ | |
+| **Totalement**<br> _Il y a des améliorations majeures, et cette situation n'est plus du tout une préoccupation pour moi._ | |
 
 ## Discussion et remarques
 _Commentez ce que vous avez mis en place. Pourquoi pensez-vous que la mise en place de l’Action a eu l’effet escompté (ou non) ? Qu’est-ce que vous aimeriez changer si c’était à refaire ? Quelles sont les prochaines étapes que vous envisagez ? Qu’avez-vous appris, et plus généralement, que vous a apporté vous (et vos élèves / étudiant·es) la mise en place de cette Action ? En quoi cette expérimentation a contribué à votre développement professionnel ? Évoquez également les éventuels effets indésirables constatés suite à la mise en place de l’Action._
