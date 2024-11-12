@@ -1,7 +1,7 @@
 # Action #X.Y - Titre de l'action
 **Défi #X - Comment [...] ? (copier-coller ici le titre du défi)**\
 \
-**Auteurs:** ...\
+**Co-auteur·rice(s):** ...\
 **Mots-clés:** ...
 
 ## Champ d'application de l'Action
