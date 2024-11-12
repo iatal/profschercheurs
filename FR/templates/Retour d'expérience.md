@@ -2,7 +2,7 @@
 **Défi #X - Comment [...] ?**\
 **Action #X.Y - Intitulé de l'Action**\
 \
-**Auteurs:** ...\
+**Co-auteur·rice(s):** ...\
 **Mots-clés:** ...
 
 ## Date / période de mise en place de l'Action
