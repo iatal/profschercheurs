@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this ressource, please cite it as below."
+authors:
+  - family-names: Atal
+    given-names: Ignacio
+    orcid: https://orcid.org/0000-0002-7323-6511
+  - family-names: Jeune
+    given-names: Nathanael
+  - family-names: Gabard
+    given-names: Carole
+  - family-names: Pagnotta
+    given-names: Murillo
+  - family-names: Lefèvre
+    given-names: Grégory
+  - family-names: Lanteri
+    given-names: Marine
+  - family-names: Archer
+    given-names: Manon
+title: "Le programme Profs-Chercheurs: outils et ressources pour son implémentation"
+version: 1.2
+date-released: 2022-01-22
