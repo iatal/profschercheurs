@@ -1,4 +1,7 @@
 # Défi #X - Comment [...] ?
+\
+**Auteurs:** ...\
+**Mots-clés:** ...
 
 ## Champ d’application du défi
 _Quels niveaux, dispositifs ou contextes éducatifs spécifiques sont concernés par ce Défi ? Par ex. petite enfance, primaire, secondaire, éducation spécialisée, enseignement adapté, parcours professionnels, enseignement supérieur, apprentissage tout au long de la vie, …_
