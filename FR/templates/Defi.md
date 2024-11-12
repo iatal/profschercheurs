@@ -1,6 +1,6 @@
 # Défi #X - Comment [...] ?
 \
-**Auteurs:** ...\
+**Co-auteur·rice(s):** ...\
 **Mots-clés:** ...
 
 ## Champ d’application du défi
