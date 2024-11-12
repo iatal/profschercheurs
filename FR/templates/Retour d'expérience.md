@@ -1,6 +1,9 @@
 # Retour d'expérience #X.Y.Z
 **Défi #X - Comment [...] ?**\
-**Action #X.Y - Intitulé de l'Action**
+**Action #X.Y - Intitulé de l'Action**\
+\
+**Auteurs:** ...\
+**Mots-clés:** ...
 
 ## Date / période de mise en place de l'Action
 _Date(s) de début et de fin à indiquer ici au format JJ/MM/AAAA._
