@@ -20,3 +20,5 @@ _**Instructions**: Répondez par oui ou non aux questions suivantes pour relire 
 16. Est-ce qu’il vous semble que les indicateurs de progrès vont permettre de comparer l’évolution du Défi dans différents contextes ? _Si deux acteur·rices de l'éducation confronté·es à ce même Défi renseignent les mêmes indicateurs, cela devrait vous permettre de savoir si l'un·e d'entre eux est plus proche de relever ce Défi._
 17. [Optionnelle] Tous les passages de la description ou des indicateurs de progrès qui vous semblent nécessiter une référence sont-ils sourcés ? _Sinon, indiquez les passages nécessitant à votre avis des références. Si vous connaissez d'autres références qui pourraient être pertinentes, n'hésitez pas à les suggérer._
 18. [Optionnelle] Vous pouvez ajouter d’autres questions, remarques ou suggestions si vous le souhaitez.
+
+-------Grille relecture Défi - v1.2------
