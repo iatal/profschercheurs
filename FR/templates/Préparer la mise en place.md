@@ -2,7 +2,7 @@
 **Défi #**\
 **Action #**\
 \
-**Co-auteur·rices de la préparation:**\
+**Co-auteur·rice(s) de la préparation:**\
 **Date de la préparation:** JJ/MM/AAAA\
 \
 **Instructions:** L’objectif de cette tâche est de vous aider à surveiller de près les effets liés à la mise en place de votre Action pour relever votre Défi. Consultez attentivement le Défi qui vous concerne et l’Action que vous souhaitez mettre en place. Ensuite, répondez aux questions ci-dessous pour définir la temporalité de vos observations et de la mise en place de votre Action, et produire des Notes de terrain pour recueillir vos observations liées aux indicateurs de progrès du Défi et aux éléments du protocole de l’Action.
