@@ -17,3 +17,5 @@
 13. Est-ce que l’ensemble du contenu de ce Retour d'expérience est anonymisé ? _C’est-à-dire qu’aucun nom de personne ni de lieu précis ni aucune information sensible ne sont renseignés._
 14. [Optionnelle] Tous les passages du Retour d’expérience qui vous semblent nécessiter une référence sont-ils sourcés ? _Sinon, indiquez les passages nécessitant à votre avis des références. Si vous connaissez d'autres références qui pourraient être pertinentes, n'hésitez pas à les suggérer._
 15. [Optionnelle] Vous pouvez ajouter d’autres questions, remarques ou suggestions si vous le souhaitez. 
+
+-------Grille relecture Retour d'expérience - v1.2------
