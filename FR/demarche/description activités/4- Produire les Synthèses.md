@@ -10,7 +10,7 @@ Une synthèse est un résumé rigoureux d'un ensemble de retours d'expérience s
 - **Synthèse d’un défi** – est une synthèse de tous les retours d’expérience apportés pour toutes les actions d’un unique défi Y, et permet de répondre à la question du type “Quelle action permet le mieux relever le défi Y ?”
 - **Synthèse transversale** – est une synthèse de retours d’expérience bien choisis venant de différents défis et actions, qui permettent de répondre à des questions spécifiques. Par exemple, “Quelles types d’actions s’avèrent efficaces dans le contexte Z ?”, ou bien “Quelles mesures de progrès sont préférées par les enseignants mettant en place des actions de type Z ?”, ...
 
-Vous pouvez découvrir les éléments nécessaires à la production d'une synthèse sur ce modèle.
+Vous pouvez découvrir les éléments nécessaires à la production d'une synthèse sur [ce modèle](<../outils/modèles/Modèle Synthèse.md>).
 
 ## Quelle est la démarche Profs-Chercheurs pour produire une synthèse ?
 ![ProduireSyntheses](https://github.com/user-attachments/assets/4bb388ef-9741-427e-8753-cb29db5b9da3)
