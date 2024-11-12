@@ -31,7 +31,7 @@ Devenir co-auteur.rice implique s'engager à aider les autres co-auteurs à trou
 
 ### 2 - Définissez le protocole de la synthèse (étape 1)
 
-L'objectif de cette première étape est de clarifier les détails nécessaires à la réalisation de la synthèse. Pour cela, vous aurez à compléter un ensemble de champs suivant un modèle unique pour tous les synthèse du collectif Profs-Chercheurs. Suivez les instructions données et, si possible, discutez avec les autres co-auteurs pour clarifier chaque élément. L'animateur pourra vous aider si nécessaire.
+L'objectif de cette première étape est de clarifier les détails nécessaires à la réalisation de la synthèse. Pour cela, vous aurez à compléter un ensemble de champs suivant un modèle unique pour tous les synthèse du collectif Profs-Chercheurs. Suivez les instructions données et, si possible, discutez avec les autres co-auteurs pour clarifier chaque élément.
 
 Pour definir le protocole de la synthèse, vous devrez
 - clarifier les objectifs de cette synthèse
@@ -49,9 +49,9 @@ Ils ne seront pas tous pertinents, vous devrez donc vérifier que chacun d'entre
 **Extraction des informations des retours d’expérience**\
 Suivez le lien pour trouver le document collaboratif avec les tableaux utilisés dans toutes les synthèses. Conseil : utilisez ctrl+clik pour ouvrir le document dans un nouvel onglet de votre navigateur. Ce document unique est utilisé pour toutes les synthèses. Trouvez l'onglet qui correspond à la synthèse sur laquelle vous travaillez (la flèche rouge montre un exemple).
 
--------Activité Produire les Synthèses - v1.0------
 **Modifiez les informations du tableau au cours de votre travail sur ce projet.**\
-Tout d'abord, indiquez uniquement les études éligibles en notant les numéros de défi, d'action et de retours d’expérience correspondants. Chaque retour d’expérience éligible doit correspondre à une seule ligne. Modifiez les intitulés des colonnes pour indiquer les informations qui doivent être obtenues de chaque étude telles que définies dans le protocole de la synthèse. Ajoutez ou supprimez des colonnes si nécessaire.
-Passez maintenant en revue chaque retour d'expérience inclus dans la synthèse, recherchez les informations pertinentes et copiez-les dans la cellule du tableau appropriée. Si vous ne trouvez pas l'information à extraire dans un retour d'expérience, n'hésitez pas à demander des précisions à son auteur dans la section "Commentaires" du retour d'expérience ! Une fois que toutes les informations ont été collectées, il est temps de résumer ce qu'elles montrent. Par exemple, pouvez-vous trouver des similitudes et des différences importantes entre les différents contextes ? Ecrivez votre analyse dans la rubrique intitulée Résumé des informations recueillies.
-
+Tout d'abord, indiquez uniquement les études éligibles en notant les numéros de défi, d'action et de retours d’expérience correspondants. Chaque retour d’expérience éligible doit correspondre à une seule ligne. Modifiez les intitulés des colonnes pour indiquer les informations qui doivent être obtenues de chaque étude telles que définies dans le protocole de la synthèse. Ajoutez ou supprimez des colonnes si nécessaire.\
+Passez maintenant en revue chaque retour d'expérience inclus dans la synthèse, recherchez les informations pertinentes et copiez-les dans la cellule du tableau appropriée. Si vous ne trouvez pas l'information à extraire dans un retour d'expérience, n'hésitez pas à demander des précisions à son auteur dans la section "Commentaires" du retour d'expérience ! Une fois que toutes les informations ont été collectées, il est temps de résumer ce qu'elles montrent. Par exemple, pouvez-vous trouver des similitudes et des différences importantes entre les différents contextes ? Ecrivez votre analyse dans la rubrique intitulée Résumé des informations recueillies.\
 Après tout ce dur travail, produisez une conclusion pour rapporter les points principaux de votre synthèse à d'autres enseignants , en utilisant l'espace intitulé "Conclusions". Clarifiez le contexte qui a conduit à la question de recherche, indiquez le nombre et les caractéristiques des retours d'expérience inclus, décrivez les principales informations qu'ils ont fourni. Assurez-vous de répondre à toutes les questions de recherche.
+
+-------Activité Produire les Synthèses - v1.0------
