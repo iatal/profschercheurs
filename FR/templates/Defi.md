@@ -28,11 +28,11 @@ Temps estimé ici...
 _Proposez dans le tableau ci-dessous des **indicateurs de progrès** : des données qui vous semblent importantes à surveiller pour évaluer l’état initial de la situation problématique, évaluer dans le temps si vous êtes en train de relever ou pas ce Défi, mesurer le progrès de la situation problématique et estimer à quel point vous êtes proches de l’objectif à atteindre._\
 _Proposez des indicateurs autant que possible **transposables d’un contexte à un autre**, c’est-à-dire qu’ils pourraient être utilisés par d’autres personnes confrontées à ce Défi. Veillez à ce que les indicateurs soient **faciles à renseigner** dans le quotidien des personnes impliquées pour relever ce Défi. Chaque ligne du tableau doit correspondre à **une seule donnée à surveiller**. Ajoutez des lignes si nécessaire._
 
-| Quelle donnée faut-il surveiller ? _(Nombre d’élèves ou d’étudiant·es faisant X, temps passé à attendre Y, mon degré de satisfaction par rapport à Z sur une échelle de 1 à 5…)_ | Exemples de réponses possibles _(N élèves ou étudiant·es faisant X, N min à attendre Y, “1 - Pas du tout satisfait”…)_ | Afin de suivre les progrès, à quelle fréquence est-il nécessaire de surveiller cette donnée ? _(Tous les jours, toutes les semaines, tous les mois…)_ | Qui peut renseigner cette donnée ? _(L’enseignant·e, l’élève, l’étudiant·e, les parents, un·e collègue…)_ | Champ d’application _(CP, primaire, lycée, cycle, supérieur…)_ |
-| ----------- | ----------- | -------------- | ---------------- | -------- |
-| #1 | | | | |
-| #2 | | | | |
-| #3 | | | | |
+| | Quelle donnée faut-il surveiller ? _(Nombre d’élèves ou d’étudiant·es faisant X, temps passé à attendre Y, mon degré de satisfaction par rapport à Z sur une échelle de 1 à 5…)_ | Exemples de réponses possibles _(N élèves ou étudiant·es faisant X, N min à attendre Y, “1 - Pas du tout satisfait”…)_ | Afin de suivre les progrès, à quelle fréquence est-il nécessaire de surveiller cette donnée ? _(Tous les jours, toutes les semaines, tous les mois…)_ | Qui peut renseigner cette donnée ? _(L’enseignant·e, l’élève, l’étudiant·e, les parents, un·e collègue…)_ | Champ d’application _(CP, primaire, lycée, cycle, supérieur…)_ |
+| ----------- | ----------- | -------------- | ---------------- | -------- |-------- |
+| #1 | | | | | |
+| #2 | | | | | |
+| #3 | | | | | |
 
 ## Exemples concrets du Défi 
 _[Optionnel] Si vous êtes concerné·e par ce Défi, vous pouvez partager comment ce Défi se traduit dans votre contexte personnel à travers un exemple concret. Pour ce faire, répondez à la première personne aux questions suivantes : "Quelle est la situation problématique à laquelle je suis confronté·e ? Quelle serait la situation finale souhaitée ?"._\
