@@ -7,7 +7,7 @@ Pour faire face à un défi spécifique, il est possible de mettre en place un c
 ## Qu’est-ce qu’une action ?
 Une action est une stratégie concrète à mettre en place pour relever un défi. Elle peut correspondre à un geste professionnel, une ressource utilisée, un événement organisé, une activité, un mode d’organisation, etc.\
 Par exemple: “utiliser la plateforme XX”, ou bien “commencer tous les matins par l’activité XX”, ou encore “établir un dossier de demande de XX”.\
-Vous pouvez découvrir les éléments nécessaires pour décrire une action sur [ce modèle](./templates/Action.md).
+Vous pouvez découvrir les éléments nécessaires pour décrire une action sur [ce modèle](<../outils/modèles/Modèle Action.md>).
 
 ## Quelle est la démarche Profs-Chercheurs pour identifier une action ?
 ![IdentifierActions](https://github.com/user-attachments/assets/e9ce810d-c917-491b-9393-ff64390ba11b)
