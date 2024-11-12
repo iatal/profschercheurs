@@ -7,7 +7,7 @@ Les acteurs de l’éducation sont confrontés à un grand nombre de défis pour
 ## Qu’est-ce qu’un défi ?
 Un défi part d’une situation problématique, et fait référence à un objectif à atteindre. Il prend la forme d’une question de recherche du type “Comment [...] ?”\
 Par exemple: “comment accompagner mes élèves à devenir autonomes dans les apprentissages ?”, ou bien “comment utiliser l’aménagement des espaces dans ma classe pour améliorer la collaboration entre élèves ?”.\
-Vous pouvez découvrir les éléments nécessaires pour décrire un défi sur [ce modèle](./FR/templates/Defi.md).
+Vous pouvez découvrir les éléments nécessaires pour décrire un défi sur [ce modèle](<../outils/modèles/Modèle Defi.md>).
 
 ## Quelle est la démarche Profs-Chercheurs pour identifier un défi ?
 ![IdentifierDefis](https://github.com/user-attachments/assets/f24c5fed-f1b3-4ffc-97bc-45ad6f6aa4a6)
