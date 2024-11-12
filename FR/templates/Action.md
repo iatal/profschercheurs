@@ -1,6 +1,8 @@
 # Action #X.Y - Titre de l'action
-
-**Défi #X - Comment [...] ? (copier-coller ici le titre du défi)**
+**Défi #X - Comment [...] ? (copier-coller ici le titre du défi)**\
+\
+**Auteurs:** ...\
+**Mots-clés:** ...\
 
 ## Champ d'application de l'Action
 _À quels niveaux, dispositifs ou contextes éducatifs spécifiques cette Action peut-elle être mise en place ? Par ex. petite enfance, primaire, secondaire, éducation spécialisée, enseignement adapté, parcours professionnels, enseignement supérieur, apprentissage tout au long de la vie, …_
