@@ -6,7 +6,7 @@ Les acteurs de l'éducation sont confrontés à un grand nombre de défis pour a
 
 ## Qu’est-ce qu’un retour d'expérience?
 Un retour d'expérience est un écrit dans lequel un acteur de l'éducation partage son expérience de manière structurée. Dans un retour d'expérience il est nécessaire de faire apparaître les détails de mise en place de l'action et les progrès observés dans le contexte spécifique.\
-Vous pouvez découvrir les éléments nécessaires pour décrire un retour d'expérience sur [ce modèle](<../templates/Retour d'expérience.md>).
+Vous pouvez découvrir les éléments nécessaires pour décrire un retour d'expérience sur [ce modèle](<../outils/modèles/Modèle Retour d'expérience.md>).
 
 ## Quelle est la démarche des Profs-Chercheurs pour partager les retours d'expérience ?
 ![PartagerRetEx](https://github.com/user-attachments/assets/e3bfa108-f917-47ca-afb6-9b9ddff2c662)
