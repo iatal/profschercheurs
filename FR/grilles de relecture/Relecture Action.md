@@ -22,3 +22,5 @@
 18. Est-ce que les “éléments du protocole de mise en place de l’Action” figurent également dans la description de l’Action ? _Les deux sections doivent être cohérentes, et les éléments clés figurant dans la description générique doivent également apparaître sous forme condensé en tant que “éléments du protocole”._
 19. [Optionnelle] Tous les passages de la description, de l’argumentation ou des éléments du protocoles qui vous semblent nécessiter une référence sont-ils sourcés ? _Sinon, indiquez les passages nécessitant à votre avis des références. Si vous connaissez d'autres références qui pourraient être pertinentes, n'hésitez pas à les suggérer._
 20. [Optionnelle] Vous pouvez ajouter d’autres questions, remarques ou suggestions si vous le souhaitez.
+
+-------Grille relecture Action - v1.2------
