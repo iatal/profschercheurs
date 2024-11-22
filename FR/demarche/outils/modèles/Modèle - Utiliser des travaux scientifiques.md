@@ -46,11 +46,9 @@ Il existe plusieurs types de mots-clés :
 - Autour de **critères de contexte** (lycée, France, …)
 - Autour des **caractéristiques et méthodes** des études (année de publication, “revue systématique”, questionnaire, …)
 
-_Conseil 1_ : N’hésitez pas à essayer des synonymes de vos mots-clés et éviter les mots qui ont de multiples usages ou sens courants (ex: le mot genre peut autant faire référence à un genre littéraire qu’à une identité de genre)
-
-_Conseil 2_ : Mettez entre guillemets les mots-clés incluant plusieurs mots (“pensée critique”, …)
-
-_Conseil 3_ : Ne pas inclure de mots qui expriment des relations entre les concepts (ex: causes, conséquences, échanges, effet, fonctions) ni d’articles, d’adverbes ou de prépositions.
+_**Conseil 1** : N’hésitez pas à essayer des synonymes de vos mots-clés et éviter les mots qui ont de multiples usages ou sens courants (ex: le mot genre peut autant faire référence à un genre littéraire qu’à une identité de genre)_\
+_**Conseil 2** : Mettez entre guillemets les mots-clés incluant plusieurs mots (“pensée critique”, …)_\
+_**Conseil 3** : Ne pas inclure de mots qui expriment des relations entre les concepts (ex: causes, conséquences, échanges, effet, fonctions) ni d’articles, d’adverbes ou de prépositions._
 
 Certains moteurs de recherche permettent d’ajouter des **filtres** à vos requêtes, incluant potentiellement certains critères listés plus haut (année de publication, champ disciplinaire, …)
 
@@ -62,7 +60,7 @@ Visitez [Google Scholar](https://scholar.google.fr/) (multilingue), [CAIRN](http
 
 #### 2- Je choisis entre 3 et 5 résultats prometteurs
 
-**Comment choisir ? **
+**Comment choisir ?**
 - Gardez en tête les objectifs que vous vous êtes fixés au début.
 - Questionnez-vous sur la pertinence du travail scientifique : la thématique abordée et la nature du travail scientifique sont-elles cohérentes avec vos objectifs ? Pour plus d’informations sur comment évaluer la pertinence d’un travail scientifique, nous vous invitons à lire la description de l’Activité - Utiliser des travaux scientifiques.
 - Fiez-vous dans un premier temps au titre et au résumé (abstract), et triez les résultats du plus pertinent au plus incertain a priori. 
@@ -113,15 +111,15 @@ Vérifiez bien que l’ensemble des éléments entre crochets ont bien été mod
 
 _[Salutations d’usage avec le nom de la personne]_
 
-Je suis/Nous sommes [présentation avec votre/vos noms et votre/vos rôles dans l’éducation]. J’ai/Nous avons le plaisir de vous contacter en lien avec mes/nos recherches au sein du [programme Profs-Chercheurs](https://www.profschercheurs.org/fr) portant sur [décrire brièvement le Défi / Action / autre sur lequel vous souhaitez avoir des éclairages, et ajouter le lien vers les objets décrits sur la plateforme].
+_Je suis/Nous sommes [présentation avec votre/vos noms et votre/vos rôles dans l’éducation]. J’ai/Nous avons le plaisir de vous contacter en lien avec mes/nos recherches au sein du [programme Profs-Chercheurs](https://www.profschercheurs.org/fr) portant sur [décrire brièvement le Défi / Action / autre sur lequel vous souhaitez avoir des éclairages, et ajouter le lien vers les objets décrits sur la plateforme]._
 
-Étant donné que vous travaillez sur [décrire en une phrase ou deux les centres d’intérêt de recherche de la personne contactée] je/nous pense/pensons que vous serez susceptible de m’/nous aider. Mon/Notre objectif est de [décrire votre objectif spécifique et en quoi vous pensez que des apports de la recherche seraient pertinents]. Si vous pensez que certain·es de vos collègues seraient davantage susceptibles de pouvoir m’/nous aider, je/nous vous invite/invitons à nous transmettre leurs coordonnées. Si par ailleurs vous pensez que je peux/nous pouvons contribuer d’une façon ou d’une autre à vos recherches, je ferai/nous ferons tout mon/notre possible pour vous aider également.
+_Étant donné que vous travaillez sur [décrire en une phrase ou deux les centres d’intérêt de recherche de la personne contactée] je/nous pense/pensons que vous serez susceptible de m’/nous aider. Mon/Notre objectif est de [décrire votre objectif spécifique et en quoi vous pensez que des apports de la recherche seraient pertinents]. Si vous pensez que certain·es de vos collègues seraient davantage susceptibles de pouvoir m’/nous aider, je/nous vous invite/invitons à nous transmettre leurs coordonnées. Si par ailleurs vous pensez que je peux/nous pouvons contribuer d’une façon ou d’une autre à vos recherches, je ferai/nous ferons tout mon/notre possible pour vous aider également._
 
-Si vous pensez pouvoir m’/nous aider, je/nous vous propose/proposons d’échanger en visioconférence, par exemple le [insérer une proposition de date], ou à me/nous faire part de vos disponibilités en remplissant ce framadate [mettre un lien vers un [framadate](https://framadate.org/abc/fr/) avec plusieurs propositions de dates à commencer deux semaines après la date d’envoi du mail au moins]. N’hésitez pas également à me/nous partager des travaux scientifiques que vous pensez pouvoir être pertinents au regard de mes/nos objectifs, je/nous les lirons avec plaisir si vous n’avez pas le temps d’échanger avec moi/nous.
+_Si vous pensez pouvoir m’/nous aider, je/nous vous propose/proposons d’échanger en visioconférence, par exemple le [insérer une proposition de date], ou à me/nous faire part de vos disponibilités en remplissant ce framadate [mettre un lien vers un [framadate](https://framadate.org/abc/fr/) avec plusieurs propositions de dates à commencer deux semaines après la date d’envoi du mail au moins]. N’hésitez pas également à me/nous partager des travaux scientifiques que vous pensez pouvoir être pertinents au regard de mes/nos objectifs, je/nous les lirons avec plaisir si vous n’avez pas le temps d’échanger avec moi/nous._
 
-Si vous souhaitez en savoir plus sur le programme Profs-Chercheurs au sein duquel je/nous mène/menons nos recherches, n’hésitez pas à visiter [leur site web](https://profschercheurs.org/fr/) ou à contacter l’équipe en charge du projet à profschercheurs@learningplanetinsitute.org.
+_Si vous souhaitez en savoir plus sur le programme Profs-Chercheurs au sein duquel je/nous mène/menons nos recherches, n’hésitez pas à visiter [leur site web](https://profschercheurs.org/fr/) ou à contacter l’équipe en charge du projet à profschercheurs@learningplanetinsitute.org._
 
-[Formule d’usage de fin de mail]
+_[Formule d’usage de fin de mail]_
 
 Une fois les travaux scientifiques obtenus, il est temps de les lire ou de les écouter.
 
@@ -197,4 +195,4 @@ Plusieurs formats sont possibles dans lesquels plusieurs rôles peuvent être pr
 
 Écrivez ici...
 
--------Outil Utiliser des Travaux Scientifiques - v2.0------
+-------Modèle pour Utiliser des Travaux Scientifiques - v2.0------
