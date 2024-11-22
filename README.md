@@ -10,3 +10,5 @@ La documentation en français est accessible dans le dossier [FR](https://github
 Please find here all the tools and ressources needed to implement the Profs-Chercheurs programme, a citizen science programme to guide educators in doing research about their own educational practices.
 
 The documentation in english is accessible in the folder [EN](https://github.com/iatal/profschercheurs/tree/main/EN).
+
+![LogoProfsChercheurs_black](https://github.com/user-attachments/assets/fdb3d47b-85b3-404b-8965-de85df33635f)
