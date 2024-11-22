@@ -57,7 +57,7 @@ _**Remarque** : Assurez-vous que tout le contenu soit **anonymisé** et que vous
 
 **Exemple # 3**: Description ici …
 
-## Références_
+## Références
 _[Optionnel] Listez ci-dessous toutes les références (article scientifique, livre, site internet, texte de loi, …) qui pourraient vous servir d’appui pour décrire cette Action. N’oubliez pas de les référencer dans le corps du texte. N’hésitez pas à contacter des chercheur·euses ou à consulter des articles scientifiques pour trouver des références pertinentes et utiles._\
 _Aidez-vous du tableau ci-dessous pour savoir comment décrire votre référence et comment la référencer dans le corps du texte._
 
