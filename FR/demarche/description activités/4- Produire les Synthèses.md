@@ -38,6 +38,8 @@ Pour definir le protocole de la synthèse, vous devrez
 - définir les critères selon lesquels vous allez inclure ou exclure des retours d'expérience de votre synthèse
 - décider des informations à extraire de chaque retour d'expérience pour répondre à la question de recherche de la synthèse
 
+- Vous pouvez nourrir le protocole de la Synthèse ou son analyse en utilisant des Travaux Scientifiques (définition d'un mot, d'un outil d’analyse de Retours d’expériences, ...). Dans ce cas, n'oubliez pas de citer la source dans le corps du texte, là où elle est utilisée, et référer à la référence complète dans le liste des références à la fin du modèle.
+
 ### 3 - Réalisez la synthèse (étape 2)
 
 L'objectif de cette deuxième étape est de mener la synthèse en suivant le protocole établi à l'étape précédente.
