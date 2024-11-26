@@ -62,7 +62,6 @@ Pour suggérer une action à partir des idées d’un participant, il faut prév
 - À chaque fois qu'une nouvelle action est suggérée, un numéro unique y est associé. La numérotation est liée à chaque défi. Par exemple, l’action ‘#DC1.3’ correspondra à la 3e action liée au défi #DC1.
 - Il est important d’explorer les actions déjà suggérées avant de suggérer une nouvelle action afin d'éviter les doublons.
 - Pour un même défi, la liste d’actions n’est pas une liste d’étapes successives pour relever le défi, mais une liste de stratégies indépendantes les unes des autres. Cela n'empêche pas que plusieurs actions peuvent être complémentaires.
-- Vous pouvez nourrir la description de l'Action en utilisant des Travaux Scientifiques (définition d'un mot, des étapes ou des arguments pour justifier le choix d’une Action). Dans ce cas, n'oubliez pas de citer la source dans le corps du texte, là où elle est utilisée, et référer à la référence complète dans le liste des références à la fin du modèle.
 
 ### Les étapes pour réaliser cette tâche
 - Proposez une première formulation de l’action en une phrase qui explicite la stratégie concrète à mettre en place pour relever le défi.
@@ -106,6 +105,7 @@ Pour produire une première version qui sera envoyée en relecture, cela peut pr
 - Les éléments du protocole (aussi appelés éléments de mise en place) seront utilisés par les personnes ayant mis en place cette action pour communiquer de façon rigoureuse leur mise en place. Ceci permettra de comprendre comment ces personnes ont mis en place l’action lors de leurs retours d’expérience, mais aussi de comparer les retours d’expérience de plusieurs personnes pour une même action.
 - Chaque élément du protocole est un seul élément à renseigner – Il faut éviter les listes à l’intérieur d’un même élément. Ces éléments sont complémentaires les uns des autres, et les participants communiquant des retours d’expérience choisiront ceux qui leur conviennent le mieux.
 - Lors de la réécriture suite à une relecture, si vous jugez qu’une des remarques ou suggestions n’est pas pertinente ou faisable, précisez-le aux relecteurs dans votre réponse à leur relecture.
+- Vous pouvez nourrir la description de l'Action en utilisant des Travaux Scientifiques (définition d'un mot, des étapes ou des arguments pour justifier le choix d’une Action, ...). Dans ce cas, n'oubliez pas de citer la source dans le corps du texte, là où elle est utilisée, et référer à la référence complète dans le liste des références à la fin du modèle.
 
 ### Les étapes...
 **... pour envoyer la description vers une première relecture**
