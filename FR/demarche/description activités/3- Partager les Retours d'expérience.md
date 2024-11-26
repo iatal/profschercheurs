@@ -45,7 +45,7 @@ Une préparation à la mise en place peut prendre entre 45 min et 1h30.
 - Au moment de choisir les données que vous souhaitez surveiller ainsi que la fréquence de leur recueil, gardez en tête la faisabilité de telles observations. Par exemple, observer tous les jours combien de fois l’élève X interrompt la classe peut devenir rapidement un fardeau. Une solution possible serait de mener cette observation uniquement les mardi sur le créneau 10h-11h.
 - Vos notes de terrain peuvent prendre la forme de pages à imprimer avec des tableaux vides que vous pourrez emporter dans vos classes pour recueillir de façon structurée les données à surveiller. Vous pouvez prévoir dans ce support un champ libre pour noter de façon plus informelle toute observation intéressante ou réflexion qui pourrait s’avérer utile au moment de communiquer votre retour d’expérience. Découvrez quelques Exemples de Notes de terrain ici.
 - Les données que vous allez recueillir vont vous aider à communiquer un retour d’expérience plus riche. Or, gardez en tête que ces données ne pourront pas décrire tout ce qui s’est passé. Elles ne sont qu’un appui pour votre analyse et votre narration.
-- Vous pouvez nourrir le Retour d'Expérience en utilisant des Travaux Scientifiques (définition d'un mot ou d'un protocole d’expérimentation, comparer les observations avec des expériences décrites dans des travaux scientifiques). Dans ce cas, n'oubliez pas de citer la source dans le corps du texte, là où elle est utilisée, et référer à la référence complète dans le liste des références à la fin du modèle.
+- Vous pouvez vous servir de Travaux Scientifiques comme inspiration pour créer votre protocole d'expérimentation.
 
 ### Les étapes pour réaliser cette tâche
 - Identifiez l’action que vous souhaitez mettre en place pour relever votre défi. Lisez attentivement sa description ainsi que la description du défi correspondant.
@@ -108,6 +108,7 @@ Pour produire une première version qui sera envoyée en relecture, cela peut pr
 - Gardez en tête que des données ne pourront pas raconter tout ce qui s’est passé. Elles ne sont qu’un appui pour votre narration.
 - Assurez-vous que tout élément partagé soit anonymisé.
 - Lors de la réécriture suite à une relecture, si vous jugez qu’une des remarques ou suggestions n’est pas pertinente ou faisable, précisez-le aux relecteurs dans votre réponse à leur relecture.
+- Vous pouvez nourrir le Retour d'Expérience (définition d'un mot, justification du protocole d'expérimentation, comparaison des observations avec d'autres expériences décrites dans des travaux scientifiques, ...). Dans ce cas, n'oubliez pas de citer la source dans le corps du texte, là où elle est utilisée, et référer à la référence complète dans le liste des références à la fin du modèle.
 
 ### Les étapes...
 **... pour envoyer le retour d’expérience vers une première relecture**
