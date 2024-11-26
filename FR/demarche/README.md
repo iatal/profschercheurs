@@ -1,11 +1,12 @@
 # Démarche Profs-Chercheurs
 
-La démarche Profs-Chercheurs est une démarche de recherche collaborative ouverte pour accompagner des acteur·rices de l'éducation à relever leurs défis. Elle est structurée en quatre activités :
+La démarche Profs-Chercheurs est une démarche de recherche collaborative ouverte pour accompagner des acteur·rices de l'éducation à relever leurs défis. Elle est structurée en cinq activités :
 
  - [Identifier les Défis](<./description activités/1-Identifier les Défis.md>) auxquels les acteur·rices de l'éducation sont confronté·es ;
  - [Identifier les Actions](<./description activités/2-Identifier les Actions.md>) qui permettraient de relever ces Défis ;
  - [Partager les Retours d’expérience](<./description activités/3-Partager les Retours d'expérience.md>) sur la capacité de chaque Action à relever un Défi ;
- - [Produire les Synthèses](<./description activités/4- Produire les Synthèses.md>) à partir d’un ensemble de Retours d’expérience.
+ - [Produire les Synthèses](<./description activités/4- Produire les Synthèses.md>) à partir d’un ensemble de Retours d’expérience ;
+ - [Utiliser des Travaux Scientifiques](<./description activités/5- Utiliser des Travaux Scientifiques.md>) pour nourrir sa recherche.
 
 La démarche Profs-Chercheurs prévoit un ensemble de tâches pour accomplir collectivement chaque activité. Vous pouvez découvrir les différentes activités et les tâches correspondantes ici.
 
