@@ -62,6 +62,7 @@ Pour suggérer une action à partir des idées d’un participant, il faut prév
 - À chaque fois qu'une nouvelle action est suggérée, un numéro unique y est associé. La numérotation est liée à chaque défi. Par exemple, l’action ‘#DC1.3’ correspondra à la 3e action liée au défi #DC1.
 - Il est important d’explorer les actions déjà suggérées avant de suggérer une nouvelle action afin d'éviter les doublons.
 - Pour un même défi, la liste d’actions n’est pas une liste d’étapes successives pour relever le défi, mais une liste de stratégies indépendantes les unes des autres. Cela n'empêche pas que plusieurs actions peuvent être complémentaires.
+- Vous pouvez nourrir la description de l'Action en utilisant des Travaux Scientifiques (définition d'un mot, des étapes ou des arguments pour justifier le choix d’une Action). Dans ce cas, n'oubliez pas de citer la source dans le corps du texte, là où elle est utilisée, et référer à la référence complète dans le liste des références à la fin du modèle.
 
 ### Les étapes pour réaliser cette tâche
 - Proposez une première formulation de l’action en une phrase qui explicite la stratégie concrète à mettre en place pour relever le défi.
